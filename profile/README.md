@@ -89,7 +89,7 @@
 | **CEO** | Vision & Strategy |
 | **CTO** | Technology & Product |
 | **COO** | Operations & Execution |
-| **CFO** | Finance & Sustainability |
+| **CMO** | Marketing & Social Media |
 
 <br/>
 
@@ -109,7 +109,7 @@ All repositories follow structured workflows, semantic versioning, and clean doc
 
 We collaborate with **startups, visionary founders, and enterprises** who value execution.
 
-[ **Visit Website** ](https://gadaplus.com) &nbsp;&nbsp;|&nbsp;&nbsp; [ **Contact Us** ](mailto:hello@gadaplus.com)
+[ **Visit Website** ]([(https://gadaplus.vercel.app/]) &nbsp;&nbsp;|&nbsp;&nbsp; [ **Contact Us** ](mailto:gadaplusofficial@gmail.com)
 
 <br/>
 
